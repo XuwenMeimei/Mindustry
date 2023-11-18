@@ -1,4 +1,4 @@
-# Why was my issue closed?
+# Why was my issue closed
 
 This document goes over some common causes for issue closures.
 
